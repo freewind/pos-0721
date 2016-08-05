@@ -1,0 +1,27 @@
+{
+  "name": "pos-0721",
+  "version": "1.0.0",
+  "description": "需求描述 =======",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardLT/pos-0721.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardLT/pos-0721/issues"
+  },
+  "homepage": "https://github.com/LeonardLT/pos-0721#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1",
+    "lodash": "^4.14.1"
+  }
+}
